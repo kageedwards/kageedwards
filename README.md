@@ -20,6 +20,8 @@ I like connecting systems and people. Most of what I build serves a community or
 
 ### Selected projects
 
+**[Ferret RNS](https://github.com/kageedwards/ferret-rns)** - A Rust implementation of the Reticulum Network Stack aiming to not only match Mark Qvist's original reference implementation, but add some interesting new features, such as additional CLI utilities and a new interface type for connecting over QUIC.
+
 **[Mane Mix](https://github.com/kageedwards/manemix)** — A music hosting platform I ported from a legacy C/C++ codebase to Rust (Axum) with a SvelteKit 5 frontend. Handles uploads, streaming, albums, playlists, and FFmpeg-based transcoding. Deployed with Docker Compose, PostgreSQL, and Redis. The audio pipeline was new territory for me — I learned it by building it.
 
 **[LXCF](https://github.com/kageedwards/lxcf)** — An IRC-style channel protocol I designed on top of LXMF and Reticulum. Supports multi-hop messaging, deterministic channel addressing, and private channels via additional symmetric encryption. I built this because I wanted to understand how decentralized communication could work at the protocol level.
