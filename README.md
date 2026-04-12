@@ -8,7 +8,7 @@ I like connecting systems and people. Most of what I build serves a community or
 
 ### Some of what I work with
 
-**Backend:** Laravel · Rust (Axum) · Python · Node.js  
+**Backend:** Laravel · Rust (Axum) · Python · Node.js · TypeScript  
 **Frontend:** SvelteKit · Electron · Tailwind CSS · N\[e|u]xt.js  
 **Data:** MySQL · Postgres · PostGIS · Redis · Shapefiles / QGIS  
 **Infrastructure:** Linux (Debian, Arch) · Nginx · Docker Compose · DNS · Dovecot / Postfix · GitHub Actions  
