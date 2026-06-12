@@ -1,4 +1,4 @@
-## Hey, I'm Kage 👋
+## Hey, I'm Kage!
 
 Full stack software developer in Seattle. I've been building for the web professionally since 2008 — starting with PHP and the LAMP stack, growing into Laravel and modern JavaScript frameworks, and more recently exploring Rust systems programming and mesh network communications.
 
@@ -20,15 +20,11 @@ I like connecting systems and people. Most of what I build serves a community or
 
 ### Selected projects
 
-**[Ferret RNS](https://github.com/kageedwards/ferret-rns)** - A Rust implementation of the Reticulum Network Stack aiming to not only match Mark Qvist's original reference implementation, but add some interesting new features, such as additional CLI utilities and a new interface type for connecting over QUIC.
+**[Ferret RNS](https://github.com/kageedwards/ferret-rns)** - A Rust implementation of the Reticulum Network Stack. I wanted to learn "best practices" in spec-drive agentic development on a project I could enjoy. I also wanted to experiment with some new features, such as additional CLI utilities and a new interface type for connecting over QUIC.
 
-**[Mane Mix](https://github.com/kageedwards/manemix)** — A music hosting platform I ported from a legacy C/C++ codebase to Rust (Axum) with a SvelteKit 5 frontend. Handles uploads, streaming, albums, playlists, and FFmpeg-based transcoding. Deployed with Docker Compose, PostgreSQL, and Redis. The audio pipeline was new territory for me.
+**[Mane Mix](https://github.com/kageedwards/manemix)** — A music hosting platform I ported from a legacy C/C++ codebase to Rust with a SvelteKit 5 frontend. Handles uploads, streaming, albums, playlists, and FFmpeg-based transcoding. Deployed with Docker Compose, PostgreSQL, and Redis. The audio pipeline was new territory for me.
 
-**[LXCF](https://github.com/kageedwards/lxcf)** — An IRC-style channel protocol I designed on top of LXMF and Reticulum. Supports multi-hop messaging, deterministic channel addressing, and private channels via additional symmetric encryption. I built this because I wanted to understand how decentralized communication could work at the protocol level.
-
-**[Portulus](https://github.com/kageedwards/portulus)** — Desktop chat client for LXCF. Tabbed channels, E2EE, bookmarks, seven themes, and IRC-style commands. Electron UI and Python backend. The fun part was coordinating two runtimes into something that feels like a single app.
-
-**[Manehattan](https://github.com/kageedwards/manehattan)** — A social network I built in 2015 that has served thousands of real users. Currently rebuilding the codebase. Running a production community platform for years taught me as much about reliability, user trust, and responding to feedback as it did about writing code.
+**[Manehattan](https://github.com/kageedwards/manehattan)** — A social network I built in 2015 that had serveral thousand users at its peak. Currently rebuilding the codebase. Running a small social network for years taught me as much about reliability, user trust, and responding to feedback as it did about writing code.
 
 **[Outage Monitor](https://github.com/kageedwards/outage-monitor)** — Rust CLI that compares geospatial power outage data against a specific Seattle location and sends Telegram alerts. Async Tokio runtime, mutex-protected shared state, monadic error handling. I wrote it to solve a real problem in my own building.
 
@@ -38,9 +34,10 @@ I like connecting systems and people. Most of what I build serves a community or
 
 I've spent much of my career in web frameworks, such as Laravel, building and maintaining production applications end to end: data modeling, API design, deployment, DNS, mail servers, the works. These days, I'm really fond of Typescript and Svelte for web development. I enjoy Rust for low-level code and performant event-driven projects. I'm comfortable deep in a Linux terminal configuring Nginx or Postfix, and just as comfortable in a frontend codebase making things feel right for users.
 
-More recently I've been drawn to lower-level problems — designing protocols, writing concurrent Rust, working with geospatial data. I learn by building, and I tend to pick personal projects that stretch into something I don't fully know yet. The mesh networking and audio work on my profile came from that instinct.
+More recently I've been drawn to lower-level problems — designing protocols, writing concurrent Rust, working with geospatial data. I learn by building, and I tend to pick personal projects that stretch into something I don't fully know yet. 
 
-I like languages — human and interpreted — and I think the best code reads like it was written by someone who cared about the next person to open the file.
+
+I like languages — human and interpreted. I'm actively studying Norwegian, Mandarin, and Spanish. I'm really fond of clean code, and I think the best code communicates effectively its intent to the next developer to read it.
 
 ---
 
