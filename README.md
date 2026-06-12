@@ -22,6 +22,8 @@ I like connecting systems and people. Most of what I build serves a community or
 
 **[Ferret RNS](https://github.com/kageedwards/ferret-rns)** - A Rust implementation of the Reticulum Network Stack. I wanted to learn "best practices" in spec-drive agentic development on a project I could enjoy. I also wanted to experiment with some new features, such as additional CLI utilities and a new interface type for connecting over QUIC.
 
+**[Reticulum QUIC Interface](https://github.com/kageedwards/reticulum-quic-interface)** - A QUIC transport interface for the official Python reference implementation of the Reticulum Network Stack pairing QUIC's more efficient transport handling with Reticulum's built-in encryption philosophy.
+
 **[Mane Mix](https://github.com/kageedwards/manemix)** — A music hosting platform I ported from a legacy C/C++ codebase to Rust with a SvelteKit 5 frontend. Handles uploads, streaming, albums, playlists, and FFmpeg-based transcoding. Deployed with Docker Compose, PostgreSQL, and Redis. The audio pipeline was new territory for me.
 
 **[Manehattan](https://github.com/kageedwards/manehattan)** — A social network I built in 2015 that had serveral thousand users at its peak. Currently rebuilding the codebase. Running a small social network for years taught me as much about reliability, user trust, and responding to feedback as it did about writing code.
