@@ -2,11 +2,11 @@
 
 Full stack software developer in Seattle. I've been building for the web professionally since 2008 — starting with PHP and the LAMP stack, growing into Laravel and modern JavaScript frameworks, and more recently exploring Rust systems programming and mesh network communications.
 
-I like connecting systems and people. Most of what I build serves a community or solves a communication problem. I care about idiomatic solutions, clean architecture, and not reaching for duct tape when the problem deserves a real fix.
+I like connecting systems and people. Most of what I enjoy building serves a community or solves a communication problem. I like doing things idiomatically with clean architecture, and not reaching for duct tape when the problem deserves a real fix.
 
 ---
 
-### Some of what I work with
+### Some of what I've worked with
 
 **Backend:** Laravel · Rust (Axum) · Python · Node.js · TypeScript  
 **Frontend:** SvelteKit · Electron · Tailwind CSS · N\[e|u]xt.js  
@@ -26,7 +26,7 @@ I like connecting systems and people. Most of what I build serves a community or
 
 **[Mane Mix](https://github.com/kageedwards/manemix)** — A music hosting platform I ported from a legacy C/C++ codebase to Rust with a SvelteKit 5 frontend. Handles uploads, streaming, albums, playlists, and FFmpeg-based transcoding. Deployed with Docker Compose, PostgreSQL, and Redis. The audio pipeline was new territory for me.
 
-**[Manehattan](https://github.com/kageedwards/manehattan)** — A social network I built in 2015 that had serveral thousand users at its peak. Currently rebuilding the codebase. Running a small social network for years taught me as much about reliability, user trust, and responding to feedback as it did about writing code.
+**[Manehattan](https://github.com/kageedwards/manehattan)** — A social network I built in 2015 that had serveral thousand users at its peak. Currently rebuilding the codebase. Running a small social network for years taught me as much about reliability, user trust, and responding to feedback as it did about writing code  d software design.
 
 **[Outage Monitor](https://github.com/kageedwards/outage-monitor)** — Rust CLI that compares geospatial power outage data against a specific Seattle location and sends Telegram alerts. Async Tokio runtime, mutex-protected shared state, monadic error handling. I wrote it to solve a real problem in my own building.
 
@@ -36,7 +36,7 @@ I like connecting systems and people. Most of what I build serves a community or
 
 I've spent much of my career in web frameworks, such as Laravel, building and maintaining production applications end to end: data modeling, API design, deployment, DNS, mail servers, the works. These days, I'm really fond of Typescript and Svelte for web development. I enjoy Rust for low-level code and performant event-driven projects. I'm comfortable deep in a Linux terminal configuring Nginx or Postfix, and just as comfortable in a frontend codebase making things feel right for users.
 
-More recently I've been drawn to lower-level problems — designing protocols, writing concurrent Rust, working with geospatial data. I learn by building, and I tend to pick personal projects that stretch into something I don't fully know yet. 
+More recently I've been drawn to lower-level problems — designing protocols, writing concurrent Rust, working with geospatial data. I learn by building, and I tend to pick personal projects that stretch into something I don't fully know yet. The mesh network-related projects in my portfolio in particular I've been using as a means to learn Reticulum, Meshcore, and using spec-driven agentic AI in my workflow to bridge the gap.
 
 
 I like languages — human and interpreted. I'm actively studying Norwegian, Mandarin, and Spanish. I'm really fond of clean code, and I think the best code communicates effectively its intent to the next developer to read it.
