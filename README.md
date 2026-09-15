@@ -4,6 +4,8 @@ Full stack software developer in Seattle. I've been building for the web profess
 
 I like connecting systems and people. Most of what I enjoy building serves a community or solves a communication problem. I like doing things idiomatically with clean architecture, and not reaching for duct tape when the problem deserves a real fix.
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kageedwards&theme=transparent&animation=stagger&title_color=cba6f7&text_color=cdd6f3&bg_color=1e1e2e&border_color=a6adc8&icon_color=cba6f7&chart_color=f5c2e7)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kageedwards&theme=transparent&animation=stagger&utcOffset=-7&title_color=cba6f7&text_color=cdd6f3&bg_color=1e1e2e&border_color=a6adc8&icon_color=cba6f7&chart_color=f5c2e7)
 ---
 
 ### Some of what I've worked with
@@ -14,7 +16,10 @@ I like connecting systems and people. Most of what I enjoy building serves a com
 **Infrastructure:** Linux (Debian, Arch) · Nginx · Docker Compose · DNS · Dovecot / Postfix · GitHub Actions  
 **Tools:** VSCodium · Kiro · PlatformIO · Rust toolchains · GNU build tools  
 **Exploring:** Mesh networking (Reticulum) · Cryptographic protocols · Audio systems  
-**On my radar:** AWS CodePipeline · CloudFormation · Kubernetes · Kafka  
+
+#### On my radar 
+
+AWS CodePipeline · CloudFormation · Kubernetes · Kafka  
 
 ---
 
