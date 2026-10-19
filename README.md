@@ -1,6 +1,6 @@
 ## Hey, I'm Kage!
 
-Full stack software developer in Seattle. I've been building for the web professionally since 2008 — starting with PHP and the LAMP stack, growing into Laravel and modern JavaScript frameworks, and more recently exploring Rust systems programming and mesh network communications.
+Full stack software developer in Seattle, currently studying at Ada Developers Academy. I've been building software off-and-on since 2006 — starting with VB.NET, then PHP and the LAMP / LEMP stacks, before growing into Laravel and modern JavaScript frameworks. More recently I've been exploring Rust systems programming and mesh network communications. I've also been studying Python and Flask.
 
 I like connecting systems and people. Most of what I enjoy building serves a community or solves a communication problem. I like doing things idiomatically with clean architecture, and not reaching for duct tape when the problem deserves a real fix.
 
@@ -26,8 +26,6 @@ AWS CodePipeline · CloudFormation · Kubernetes · Kafka
 ### Selected projects
 
 **[Ferret RNS](https://github.com/kageedwards/ferret-rns)** - A Rust implementation of the Reticulum Network Stack. I wanted to learn "best practices" in spec-drive agentic development on a project I could enjoy. I also wanted to experiment with some new features, such as additional CLI utilities and a new interface type for connecting over QUIC.
-
-**[Reticulum QUIC Interface](https://github.com/kageedwards/reticulum-quic-interface)** - A QUIC transport interface for the official Python reference implementation of the Reticulum Network Stack pairing QUIC's more efficient transport handling with Reticulum's built-in encryption philosophy.
 
 **[Mane Mix](https://github.com/kageedwards/manemix)** — A music hosting platform I ported from a legacy C/C++ codebase to Rust with a SvelteKit 5 frontend. Handles uploads, streaming, albums, playlists, and FFmpeg-based transcoding. Deployed with Docker Compose, PostgreSQL, and Redis. The audio pipeline was new territory for me.
 
